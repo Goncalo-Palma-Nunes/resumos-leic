@@ -213,7 +213,7 @@ $$
 \frac{\partial F_1}{\partial z} = 0\\
 \frac{\partial F_3}{\partial x} = 0 &
 \frac{\partial F_2}{\partial z} = 0 &
-\frac{\partial F_2}{\partial y} = 0
+\frac{\partial F_3}{\partial y} = 0
 \end{array}
 $$
 
